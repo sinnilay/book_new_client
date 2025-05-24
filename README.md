@@ -101,7 +101,7 @@ npm install
 npm run dev
 
 
-Now open `localhost:5173` on your browser for bakend running .
+Now open `localhost:5173` on your browser for frontend running .
 
 
 
